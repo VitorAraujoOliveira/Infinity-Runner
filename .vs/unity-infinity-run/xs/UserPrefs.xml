@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9C9B1696-C8C7-E34D-038A-605997A81CD2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerControll.cs">
+    <Files>
+      <File FileName="Assets/scripts/PlayerControll.cs" Line="88" Column="39" />
+      <File FileName="Assets/scripts/Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Menu.cs" Line="16" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="39c805e7-e9f4-4f59-ab74-197295477d6a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
