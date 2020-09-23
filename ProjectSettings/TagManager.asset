@@ -7,6 +7,8 @@ TagManager:
   - coin
   - obstacle
   - plane
+  - diamond
+  - spring
   layers:
   - Default
   - TransparentFX
